@@ -6,9 +6,6 @@ db.once("open", async () => {
 
   const categories = await Category.insertMany([
     { name: "Food" },
-    { name: "Household Supplies" },
-    { name: "Electronics" },
-    { name: "Books" },
     { name: "Toys" },
   ]);
 
@@ -118,7 +115,7 @@ db.once("open", async () => {
     },
     {
       name: "Alphabet Blocks",
-      category: categories[4]._id,
+      category: categories[1]._id,
       description:
         "Morbi consectetur viverra urna, eu fringilla turpis faucibus sit amet. Suspendisse potenti. Donec at dui ac sapien eleifend hendrerit vel sit amet lectus.",
       image: "alphabet-blocks.jpg",
