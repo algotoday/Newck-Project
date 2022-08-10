@@ -15,10 +15,10 @@ Our intention is to create an easy-to-use storefront in which users would be abl
 We will make an easy-to-use front end for users to shop on while providing an automatic back-end. We will create an E-commerce for Caesar’s Kitchen which they don’t have.
 
 ## Layout
-Deployed: https://www.caesarskitchen.com/
+Deployed:  https://ck-shopping.herokuapp.com/
 
 ScreenShot:
-<img width="1606" alt="Untitled" src="https://user-images.githubusercontent.com/100335717/183774612-bd6bee38-33b2-4178-8aaa-9c54f3e6607b.png">
+
 
 
 ## Built With
