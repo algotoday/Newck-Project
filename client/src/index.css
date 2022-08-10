@@ -2,7 +2,7 @@
   --primary: #232F3E;
   --secondary: #afe32a;
   --tertiary: #1f211f;
-  --light: #e6ede8;
+  --light: #174125;
   --dark: gray;
   --error: rgb(228, 46, 1);
   --spacing-one: calc(1rem * 0.5);
@@ -146,7 +146,7 @@ input:focus {
 }
 
 .flex-row {
- color: rgb(232, 242, 242);
+ color: beige;
   display: flex;
   flex-wrap: wrap;
 }
@@ -161,13 +161,9 @@ input:focus {
 
 .mx-1 {
  border: #1f211f solid;
- 
+ color: antiquewhite;
  padding: 20px;
  list-style: none;
- position: relative;
- top: 250px;
- left: 200px;
- 
 
   margin-right: var(--spacing-one);
   margin-left: var(--spacing-one);
@@ -190,7 +186,7 @@ input:focus {
 
 .px-1 {
 
-  background-color: #4c771f;
+  background-color: #2a8b4e;
   border: 20px solid;
   padding-right: var(--spacing-one);
   padding-left: var(--spacing-one);
@@ -227,11 +223,17 @@ input:focus {
   align-items: center;
 }
 
+nav{
+  /* margin: 500px 0 0 0; */
+ position: relative;
+top: 250px;
+left: 200px;
 
+}
 
 .font{
   font-size: x-large;
-color: rgb(215, 248, 250);
+color: antiquewhite;
 }
 
 .logom{
