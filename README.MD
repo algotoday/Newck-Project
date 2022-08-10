@@ -49,6 +49,5 @@ Checkout
 * Cart (sidebar)
 
 # Demo
-https://user-images.githubusercontent.com/100335717/183786948-83653b61-ff8b-48a9-b9ca-8fc481652526.mp4
+https://user-images.githubusercontent.com/100335717/183811901-2b802a69-8a68-4e39-849a-a6acb7a176f0.mp4
 
-[](../../Nwck%20Demo##.mp4)
