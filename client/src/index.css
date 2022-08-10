@@ -3,7 +3,7 @@
   --secondary: #afe32a;
   --tertiary: #1f211f;
   --light: #e6ede8;
-  --dark: #gray;
+  --dark: gray;
   --error: rgb(228, 46, 1);
   --spacing-one: calc(1rem * 0.5);
   --spacing-two: calc(1rem);
@@ -146,7 +146,7 @@ input:focus {
 }
 
 .flex-row {
- color: antiquewhite;
+ color: rgb(232, 242, 242);
   display: flex;
   flex-wrap: wrap;
 }
@@ -231,7 +231,7 @@ input:focus {
 
 .font{
   font-size: x-large;
-color: antiquewhite;
+color: rgb(215, 248, 250);
 }
 
 .logom{
