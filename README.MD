@@ -18,7 +18,8 @@ We will make an easy-to-use front end for users to shop on while providing an au
 Deployed:  https://ck-shopping.herokuapp.com/
 
 ScreenShot:
-![](Newck.png)
+<img width="1726" alt="Newck" src="https://user-images.githubusercontent.com/100335717/183802322-55a1c1ba-3389-4621-88aa-2e7254da8ce6.png">
+
 
 
 ## Built With
