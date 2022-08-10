@@ -2,7 +2,7 @@
   --primary: #232F3E;
   --secondary: #afe32a;
   --tertiary: #1f211f;
-  --light: #174125;
+  --light: #e6ede8;
   --dark: #gray;
   --error: rgb(228, 46, 1);
   --spacing-one: calc(1rem * 0.5);
@@ -146,6 +146,7 @@ input:focus {
 }
 
 .flex-row {
+ color: antiquewhite;
   display: flex;
   flex-wrap: wrap;
 }
@@ -160,8 +161,13 @@ input:focus {
 
 .mx-1 {
  border: #1f211f solid;
+ 
  padding: 20px;
  list-style: none;
+ position: relative;
+ top: 250px;
+ left: 200px;
+ 
 
   margin-right: var(--spacing-one);
   margin-left: var(--spacing-one);
@@ -183,7 +189,8 @@ input:focus {
 }
 
 .px-1 {
-  background-color: #8b392a;
+
+  background-color: #4c771f;
   border: 20px solid;
   padding-right: var(--spacing-one);
   padding-left: var(--spacing-one);
@@ -219,20 +226,25 @@ input:focus {
   justify-content: center;
   align-items: center;
 }
-.logom{
-  margin: 30px;
-}
-nav{
-  /* margin: 500px 0 0 0; */
-  position: relative;
-top: 200px;
-left: 200px;
 
-}
+
 
 .font{
   font-size: x-large;
 color: antiquewhite;
+}
+
+.logom{
+  max-width: 2500px;
+  position: relative;
+  top: 100px;
+}
+.cklogo {
+  max-width: 200px;
+  padding: 5px;
+  position: relative;
+  left: 500px;
+  bottom: 53px;
 }
 
 @media screen and (max-width: 768px) {

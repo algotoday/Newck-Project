@@ -36,7 +36,7 @@ function Nav() {
     <header className="flex-row px-1">
       <Link className="logoimg" to="/">
         <img className="logom" src="/images/caesarskitchen_logo.png" />
-        <img src="/images/ck-creatively-crafted.png" />
+        <img className="cklogo" src="/images/ck-creatively-crafted.png" />
       </Link>
 
       <nav>{showNavigation()}</nav>
